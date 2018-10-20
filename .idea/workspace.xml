@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7ebb270a-6512-4446-988a-c8e48ed02481" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="sendemail.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/modules/user/sendemail.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="477">
+              <caret line="78" column="72" selection-start-line="78" selection-start-column="72" selection-end-line="78" selection-end-column="72" />
+              <folding>
+                <element signature="e#68#101#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ssl</find>
+      <find>extension=php_openssl.dll</find>
+      <find>feedback</find>
+      <find>M</find>
+      <find>massge</find>
+      <find>massage</find>
+      <find>topic</find>
+      <find>subject</find>
+      <find>new message</find>
+      <find>Message</find>
+      <find>content</find>
+      <find>messag</find>
+      <find>submit</find>
+      <find>zend</find>
+      <find>xd</find>
+      <find>bug</find>
+      <find>output</find>
+      <find>output_buffer</find>
+      <find>output_buffering</find>
+      <find>message</find>
+      <find>}</find>
+      <find>ob</find>
+      <find>connect</find>
+      <find>fetch</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Message</replace>
+      <replace>Forum</replace>
+      <replace>forum</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/public/aboutus.php" />
+        <option value="$PROJECT_DIR$/classes/business/Validation.php" />
+        <option value="$PROJECT_DIR$/classes/data/UserManagerDB.php" />
+        <option value="$PROJECT_DIR$/public/sendmessage.php" />
+        <option value="$PROJECT_DIR$/classes/entity/Message.php" />
+        <option value="$PROJECT_DIR$/public/modules/user/readmessage.php" />
+        <option value="$PROJECT_DIR$/classes/entity/Forum.php" />
+        <option value="$PROJECT_DIR$/public/connect.php" />
+        <option value="$PROJECT_DIR$/classes/business/ForumManager.php" />
+        <option value="$PROJECT_DIR$/classes/business/MessageManager.php" />
+        <option value="$PROJECT_DIR$/classes/data/MessageManagerDB.php" />
+        <option value="$PROJECT_DIR$/public/modules/user/newtopic.php" />
+        <option value="$PROJECT_DIR$/public/modules/user/forum.php" />
+        <option value="$PROJECT_DIR$/public/modules/user/compose.php" />
+        <option value="$PROJECT_DIR$/classes/data/ForumManagerDB.php" />
+        <option value="C:/php/php.ini" />
+        <option value="$PROJECT_DIR$/public/modules/user/inbox.php" />
+        <option value="$PROJECT_DIR$/public/modules/user/sendmessage.php" />
+        <option value="$PROJECT_DIR$/public/home.php" />
+        <option value="$PROJECT_DIR$/public/contactus.php" />
+        <option value="$PROJECT_DIR$/public/includes/header.php" />
+        <option value="$PROJECT_DIR$/public/modules/user/index.php" />
+        <option value="$PROJECT_DIR$/public/feedback.php" />
+        <option value="$PROJECT_DIR$/public/login.php" />
+        <option value="$PROJECT_DIR$/public/email.php" />
+        <option value="$PROJECT_DIR$/public/forgetpassword.php" />
+        <option value="$PROJECT_DIR$/public/modules/user/sendemail.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWebServerValidation" path_to_validation_script="C:\Apache24\htdocs\phpcrudsample" selected_validation_type="LOCAL" web_path_to_validation_script="http://127.0.0.1/" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="520" />
+    <option name="y" value="460" />
+    <option name="width" value="2120" />
+    <option name="height" value="1130" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="phpcrudsample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phpcrudsample" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="phpcrudsample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phpcrudsample" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="phpcrudsample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phpcrudsample" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="business" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/wordpress" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Apache24\htdocs\phpcrudsample\public\modules\user" />
+      <recent name="C:\Apache24\htdocs\phpcrudsample\classes\data" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Apache24\htdocs\phpcrudsample\public\modules\user" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.inbox.php">
+    <configuration name="inbox.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/phpcrudsample/public/modules/user/inbox.php" />
+    <configuration name="public" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$/public" />
+    </configuration>
+    <configuration name="autoload.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/public/includes/autoload.php" />
+    <configuration name="inbox.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/public/modules/user/inbox.php" />
+    <list>
+      <item itemvalue="JavaScript Debug.inbox.php" />
+      <item itemvalue="PHP Script.autoload.php" />
+      <item itemvalue="PHP Script.inbox.php" />
+      <item itemvalue="PHPUnit.public" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.inbox.php" />
+        <item itemvalue="PHP Script.inbox.php" />
+        <item itemvalue="PHP Script.autoload.php" />
+        <item itemvalue="PHPUnit.public" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ebb270a-6512-4446-988a-c8e48ed02481" name="Default" comment="" />
+      <created>1523936400276</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523936400276</updated>
+      <workItem from="1523936401969" duration="2112000" />
+      <workItem from="1524193184112" duration="842000" />
+      <workItem from="1524194171892" duration="14836000" />
+      <workItem from="1524461706370" duration="8855000" />
+      <workItem from="1524568782699" duration="769000" />
+      <workItem from="1524636918516" duration="3121000" />
+      <workItem from="1524916184289" duration="65000" />
+      <workItem from="1524916342624" duration="597000" />
+      <workItem from="1525239423899" duration="1043000" />
+      <workItem from="1525316790212" duration="1201000" />
+      <workItem from="1525320368022" duration="9880000" />
+      <workItem from="1525756596142" duration="4802000" />
+      <workItem from="1525768797132" duration="353000" />
+      <workItem from="1525770148862" duration="37000" />
+      <workItem from="1525771329374" duration="525000" />
+      <workItem from="1525837525496" duration="1241000" />
+      <workItem from="1525847209515" duration="125000" />
+      <workItem from="1525928824328" duration="53000" />
+      <workItem from="1526297574810" duration="5190000" />
+      <workItem from="1526360358094" duration="3733000" />
+      <workItem from="1527057374558" duration="5278000" />
+      <workItem from="1527491162957" duration="4711000" />
+      <workItem from="1527575585595" duration="3000" />
+      <workItem from="1527655277572" duration="1903000" />
+      <workItem from="1527832836099" duration="226000" />
+      <workItem from="1528707007834" duration="41000" />
+      <workItem from="1528785211508" duration="9000" />
+      <workItem from="1530501761967" duration="598000" />
+      <workItem from="1530511298891" duration="10000" />
+      <workItem from="1530675711643" duration="124000" />
+      <workItem from="1531382703562" duration="569000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="76868000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="-6" width="1293" height="693" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18969555" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3298969" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39862543" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="PHP-CGI Server" order="10" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3298969" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/public/modules/user/sendemail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1326">
+          <caret line="78" column="72" selection-start-line="78" selection-start-column="72" selection-end-line="78" selection-end-column="72" />
+          <folding>
+            <element signature="e#68#101#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/modules/user/sendemail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1326">
+          <caret line="78" column="72" selection-start-line="78" selection-start-column="72" selection-end-line="78" selection-end-column="72" />
+          <folding>
+            <element signature="e#68#101#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/modules/user/sendemail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1326">
+          <caret line="78" column="72" selection-start-line="78" selection-start-column="72" selection-end-line="78" selection-end-column="72" />
+          <folding>
+            <element signature="e#68#101#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/modules/user/sendemail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1326">
+          <caret line="78" column="72" selection-start-line="78" selection-start-column="72" selection-end-line="78" selection-end-column="72" />
+          <folding>
+            <element signature="e#68#101#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/modules/user/sendemail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="477">
+          <caret line="78" column="72" selection-start-line="78" selection-start-column="72" selection-end-line="78" selection-end-column="72" />
+          <folding>
+            <element signature="e#68#101#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
